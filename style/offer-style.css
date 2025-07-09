@@ -1,0 +1,39 @@
+.imag1{
+    display: flex;
+    justify-content: center;
+}
+
+.imag1 img{
+    width: 1320px;
+    height: 600px;
+    border: 50px 140px 120px 140px;
+}
+
+.text1{
+    color: red;
+    justify-content: center;
+    text-align: center;
+    font-size: 88px;
+    font-family: sans-serif;
+    font-weight: bold;
+    border: 0px 0px 48px 0px;
+}
+
+.text2{
+    color: red;
+    justify-content: center;
+    text-align: center;
+    font-size: 24px;
+    font-family: sans-serif;
+    border: 0px 0px 16px 0px;
+} 
+
+.text3{
+       color: black;
+    justify-content: center;
+    text-align: center;
+    font-size: 48px;
+    font-weight: bold;
+    font-family: sans-serif;
+    border: 0px 0px 48px 0px;
+}
