@@ -37,3 +37,49 @@
     font-family: sans-serif;
     border: 0px 0px 48px 0px;
 }
+
+.imag2{
+    display: flex;
+    justify-content: center;
+}
+
+.imag2 img{
+    width: 802.9px;
+    height: 500px;
+    border: 0px 398.1px 120px 399px;
+}
+
+.imag3{
+    display: flex;
+    justify-content: center;
+}
+
+.imag3 img{
+    width: 1320px;
+    height: 600px;
+    border: 120px 140px 120px 140px;
+}
+
+legend{
+    background-image: url("../images/Vectorrr.png");
+    display: flex;
+    justify-content: center;
+     width: 1320px;
+    height: 600px;
+    border: 120px 140px 120px 140px;
+    margin: 0px auto;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.leftside{
+    color: #FFFFFF;
+    font-family:serif ;
+    height: 176px;
+    width: 642px;
+    margin: 0px 0px 0px 126px;
+}
+
+.rightside{
+
+}
